@@ -1,0 +1,50 @@
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: There are no dollar‐value payments to Deel mentioned in the provided context.","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: No payments to Air Canada are mentioned in the provided context.","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $66.90.\n\nResponse: The only amount mentioned as paid by SURFSHARK is $66.90.","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $424.62.\n\nResponse: The payment made to Upwork was $424.62.","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: Es wurde kein Betrag an Air Canada gezahlt, sondern nur an Gogo – und zwar 20,75 CAD.","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: $200.00","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: The only payment amount mentioned is $0.00.","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $200.00.\n\nResponse: $200","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $150.00.\n\nResponse: $150.","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $2,500.\n\nResponse: $205.12","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: There are no payments to Ganesha mentioned in the provided context.","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $500.00.\n\nResponse: The amount paid to Google Pay is $500.","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: There are no PayPal payments mentioned in the provided text. (The only dollar amount cited is a $200 pre-authorization on a Mercury debit card.)","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $600.00.\n\nResponse: No payment amounts to Josh are mentioned in the provided context.","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $420.00.\n\nResponse: No payments to Ganesha are mentioned in the provided context.","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $504.\n\nResponse: $504","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: The amount paid (preauthorized) by Barlow & Williams PLLC is $200.","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: No payments to Bench are mentioned in the provided context.","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $1,076.40.\n\nResponse: $1,076.40","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: $109.87","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $2 680.00.\n\nResponse: $2,680.00","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: $66.90","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: I’m not seeing any plain-text dollar amounts in the blob you provided – it appears to be an encoded string (e.g. Base32/Base64). You’ll need to decode it first to recover the underlying text or data, and only then can you extract the “$” values paid to Gusto.","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $8,803.15.\n\nResponse: The amount paid to Deel was $8,803.15.","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: There are no payments to “Bench” mentioned in the provided context.","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $200.00.\n\nResponse: $200","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: There are no payments to Ganesha mentioned in the provided context.","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $2 500.00.\n\nResponse: US$2,500","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $100.06.\n\nResponse: The payment amount was $100.06.","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $124.48.\n\nResponse: $124.48","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: The amount paid to Zapier is $136.97.","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: No payments to Google Pay are mentioned in the provided context.","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $47.77.\n\nResponse: $47.77","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: $850.00","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $4,939.07.\n\nResponse: No dollar amounts paid to Deel are mentioned in the provided context.","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: $2,657.81","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $373.52.\n\nResponse: $373.52","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: The amount paid to Eurostar is $120.","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $3,620.00.\n\nResponse: $3,620.00","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $424.62.\n\nResponse: $424.62","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: $200.85","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: $504","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $11,055.00.\n\nResponse: $11,055.00","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $45.00.\n\nResponse: The amount paid to Webflow was $45.","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: No payments to Mixpanel are mentioned in the provided context.","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains $105.29.\n\nResponse: $105.29","response":null,"judgement":"yes"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: The payments shown are  \n– $1,890  \n– $ 420","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: $600","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: 500 $","response":null,"judgement":"no"}
+{"context":null,"prompt":"Criteria: Judge whether the following text contains unknown/none/no mention.\n\nResponse: No dollar values are mentioned in the provided context.","response":null,"judgement":"yes"}
